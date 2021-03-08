@@ -1,3 +1,2 @@
 # E-commerce-Project
-# E-commerce
-# E-commerce
+I'll be building an e-commerce application using MERN stack, the project will be hosted on HEROKU
